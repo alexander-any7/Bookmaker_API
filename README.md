@@ -1,2 +1,2 @@
-## REST API for bookmarking
-Built using [Flask](https://palletsprojects.com/p/flask/)
+## REST API
+an API for bookmarking built with [Flask](https://palletsprojects.com/p/flask/)
